@@ -1,0 +1,18 @@
+{
+    "name": "capport-api-nodejs-poc",
+    "version": "0.1.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "node ."
+    },
+    "author": "",
+    "license": "MIT",
+    "dependencies": {
+        "express": "^4.17.2",
+        "morgan": "^1.10.0"
+    },
+    "prettier": {
+        "tabWidth": 4
+    }
+}
