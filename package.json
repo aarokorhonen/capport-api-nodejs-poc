@@ -2,7 +2,7 @@
     "name": "capport-api-nodejs-poc",
     "version": "0.1.0",
     "description": "",
-    "main": "index.js",
+    "main": "./src/index.js",
     "scripts": {
         "start": "node ."
     },
